@@ -1,4 +1,8 @@
-### Hi there 👋
+
+Statistical Learning에 관심이 많은 저에 대해 알고 싶다면 다음 노션 페이지를 클릭해주세요!
+
+[노션 페이지](https://www.notion.so/Statistics-24dbd7dc962d4925a9d21ec23b225f2a)
+
 
 <!--
 **TwoLion/TwoLion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
